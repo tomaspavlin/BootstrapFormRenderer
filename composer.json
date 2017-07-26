@@ -1,5 +1,5 @@
 {
-	"name": "kdyby/bootstrap-form-renderer",
+	"name": "mykdyby/bootstrap-form-renderer",
 	"type": "library",
 	"description": "Nette forms renderer with bootstrap",
 	"keywords": ["nette", "kdyby", "forms", "bootstrap"],
